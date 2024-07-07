@@ -1,5 +1,7 @@
 # Intro to Containers
 
+- [Reading material](intro.md)
+
 ## Prerequisites
 
 - Ensure you have Python and Docker Desktop (or Rancher Desktop) installed on your machine.
