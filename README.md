@@ -86,3 +86,8 @@
 4. **Access the app**:
     - Open `http://localhost:5000` in your browser
     - Or run `curl http://localhost:5000` in your terminal
+
+
+## Challenge
+
+- Access our challenge [here](./challenge/README.md)
