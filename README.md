@@ -82,7 +82,7 @@
 
 3. **Run the Docker container**:
     ```sh
-    docker run -p 5000:5000 coderco
+    docker run -p 5001:5001 coderco
     ```
 
 4. **Access the app**:
@@ -93,4 +93,3 @@
 ## Challenge
 
 - Access our challenge [here](./challenge/README.md)
-
